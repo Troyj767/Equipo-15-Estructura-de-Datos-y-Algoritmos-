@@ -1,4 +1,4 @@
-# UAPA - Ingeniería Informática Gerencial
+# UAPA
 ## ISW-305: Estructuras de Datos y Algoritmos | Equipo #15
 
 Este repositorio centraliza el desarrollo técnico y la gestión de soluciones algorítmicas. 
